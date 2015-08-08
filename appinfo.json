@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "team-dispatch@outlook.com",
+    "longName": "Dispatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Dispatch",
+    "uuid": "4bb47a3b-83ce-4798-a0c0-b7c4652b154b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
